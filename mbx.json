@@ -1,4 +1,6 @@
 {
 
-	"name": "SysML Component Library - Sensors"
+	"name": "SysML Component Library - Sensors",
+	"description":"sysml model of common sensor components",
+	"repoURL":"https://github.com/ealexander22/SysML-Component-Model-Library-Sensors.git"
 }
